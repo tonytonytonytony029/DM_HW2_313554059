@@ -1,0 +1,25 @@
+data_paths:
+  train_X: "train_X.csv"
+  train_y: "train_y.csv"
+  test_X: "test_X.csv"
+  submission_file: "testing_result.csv"  # Kaggle 提交文件路徑
+
+model_params:
+  n_neighbors: 5                # 用於 KNN 插補
+  smote_strategy: "auto"        # 用於 SMOTE 平衡
+  scaler: "standard"            # 標準化方法
+  random_state: 42              # 隨機種子
+  pca_components: 2             # PCA 的主成分數量
+  categorical_encoding: "onehot"  # 類別特徵編碼方法
+
+evaluation_metrics:
+  primary: "macro_f1"
+  secondary: "auroc"
+
+logging:
+  file_name: "training_log.log"  # 日誌檔名
+  level: "INFO"                  # 日誌等級（INFO、ERROR 等）
+
+monitoring:
+  latency_threshold: 1.0         # 延遲閾值（秒），用於模型監控
+  accuracy_threshold: 0.85       # 精度閾值，用於模型監控
