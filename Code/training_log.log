@@ -7,3 +7,69 @@
 2024-11-13 08:52:27,542 - INFO - Data loaded successfully. Train shape: (44939, 83), Test shape: (19260, 83)
 2024-11-13 09:09:01,345 - INFO - Logging initialized. Starting the training process.
 2024-11-13 09:09:03,200 - INFO - Data loaded successfully. Train shape: (44939, 83), Test shape: (19260, 83)
+2024-11-14 22:30:18,433 - INFO - Logging initialized. Starting the training process.
+2024-11-14 22:30:48,078 - INFO - Data loaded successfully. Train shape: (44939, 83), Test shape: (19260, 83)
+2024-11-14 22:36:52,076 - INFO - Logging initialized. Starting the training process.
+2024-11-14 22:36:55,632 - INFO - Data loaded successfully. Train shape: (44939, 83), Test shape: (19260, 83)
+2024-11-15 03:05:36,530 - INFO - Logging initialized. Starting the training process.
+2024-11-15 03:05:38,779 - INFO - Data loaded successfully. Train shape: (44939, 83), Test shape: (19260, 83)
+2024-11-15 03:38:53,615 - INFO - Logging initialized. Starting the training process.
+2024-11-15 03:38:57,122 - INFO - Data loaded successfully. Train shape: (44939, 83), Test shape: (19260, 83)
+2024-11-15 03:48:58,639 - INFO - Logging initialized. Starting the training process.
+2024-11-15 03:49:01,496 - INFO - Data loaded successfully. Train shape: (44939, 83), Test shape: (19260, 83)
+2024-11-15 03:53:22,717 - ERROR - Error during model training: 'ascii' codec can't encode characters in position 18-20: ordinal not in range(128)
+2024-11-15 03:53:28,157 - ERROR - Error during model training: 'ascii' codec can't encode characters in position 18-20: ordinal not in range(128)
+2024-11-15 03:53:34,173 - ERROR - Error during model training: Found input variables with inconsistent numbers of samples: [65698, 16424]
+2024-11-15 03:53:46,137 - ERROR - Error during model training: Found input variables with inconsistent numbers of samples: [65698, 16424]
+2024-11-15 03:54:29,928 - ERROR - Error during model training: Found input variables with inconsistent numbers of samples: [32849, 16424]
+2024-11-15 03:55:20,121 - ERROR - Error during model training: Found input variables with inconsistent numbers of samples: [32849, 16424]
+2024-11-15 03:55:24,734 - ERROR - Error during model training: Found input variables with inconsistent numbers of samples: [82122, 16424]
+2024-11-15 03:55:25,967 - ERROR - Error during model training: Found input variables with inconsistent numbers of samples: [82122, 16424]
+2024-11-15 03:58:14,676 - ERROR - Error during model training: 'ascii' codec can't encode characters in position 18-20: ordinal not in range(128)
+2024-11-15 03:58:15,890 - ERROR - Error during model training: 'ascii' codec can't encode characters in position 18-20: ordinal not in range(128)
+2024-11-15 03:58:16,717 - ERROR - Error during model training: 'ascii' codec can't encode characters in position 18-20: ordinal not in range(128)
+2024-11-15 03:58:38,804 - ERROR - Error during model training: 'ascii' codec can't encode characters in position 18-20: ordinal not in range(128)
+2024-11-15 03:58:39,976 - ERROR - Error during model training: 'ascii' codec can't encode characters in position 18-20: ordinal not in range(128)
+2024-11-15 03:58:41,223 - ERROR - Error during model training: 'ascii' codec can't encode characters in position 18-20: ordinal not in range(128)
+2024-11-15 03:59:27,458 - ERROR - Error during model training: 'ascii' codec can't encode characters in position 18-20: ordinal not in range(128)
+2024-11-15 16:33:16,081 - INFO - Logging initialized. Starting the training process.
+2024-11-15 16:34:08,578 - INFO - Data loaded successfully. Train shape: (44939, 83), Test shape: (19260, 83)
+2024-11-15 16:42:55,535 - ERROR - Error during model training: 'ascii' codec can't encode characters in position 18-20: ordinal not in range(128)
+2024-11-15 16:43:30,442 - ERROR - Error during model training: 'ascii' codec can't encode characters in position 18-20: ordinal not in range(128)
+2024-11-15 16:53:33,097 - ERROR - Error during model training: 'ascii' codec can't encode characters in position 18-20: ordinal not in range(128)
+2024-11-15 16:56:26,424 - ERROR - Error during model training: 'ascii' codec can't encode characters in position 18-20: ordinal not in range(128)
+2024-11-15 16:56:26,425 - ERROR - Error during model evaluation: 'GridSearchCV' object has no attribute 'best_estimator_'
+2024-11-15 16:56:32,529 - ERROR - Error during model training: 'ascii' codec can't encode characters in position 18-20: ordinal not in range(128)
+2024-11-15 16:56:32,529 - ERROR - Error during model evaluation: 'GridSearchCV' object has no attribute 'best_estimator_'
+2024-11-15 16:57:22,002 - ERROR - Error during model training: 'ascii' codec can't encode characters in position 18-20: ordinal not in range(128)
+2024-11-15 16:57:22,002 - ERROR - Error during model evaluation: 'GridSearchCV' object has no attribute 'best_estimator_'
+2024-11-15 16:58:01,505 - ERROR - Error during model training: 'ascii' codec can't encode characters in position 18-20: ordinal not in range(128)
+2024-11-15 16:58:01,505 - ERROR - Error during model evaluation: 'GridSearchCV' object has no attribute 'best_estimator_'
+2024-11-15 17:06:32,350 - ERROR - Error during model training: 'ascii' codec can't encode characters in position 18-20: ordinal not in range(128)
+2024-11-15 17:06:32,350 - ERROR - Error during model evaluation: 'GridSearchCV' object has no attribute 'best_estimator_'
+2024-11-15 17:07:05,810 - ERROR - Error during model training: 'ascii' codec can't encode characters in position 18-20: ordinal not in range(128)
+2024-11-15 17:07:05,810 - ERROR - Error during model evaluation: 'GridSearchCV' object has no attribute 'best_estimator_'
+2024-11-15 17:11:54,327 - ERROR - Error during model training: 'ascii' codec can't encode characters in position 18-20: ordinal not in range(128)
+2024-11-15 17:11:54,328 - ERROR - Error during model evaluation: 'GridSearchCV' object has no attribute 'best_estimator_'
+2024-11-15 17:14:08,290 - ERROR - Error during model training: 'ascii' codec can't encode characters in position 18-20: ordinal not in range(128)
+2024-11-15 17:14:08,290 - ERROR - Error during model evaluation: 'GridSearchCV' object has no attribute 'best_estimator_'
+2024-11-15 17:14:18,721 - ERROR - Error during model training: 'ascii' codec can't encode characters in position 18-20: ordinal not in range(128)
+2024-11-15 17:14:18,721 - ERROR - Error during model evaluation: 'GridSearchCV' object has no attribute 'best_estimator_'
+2024-11-15 17:24:45,324 - ERROR - Error during model training: 'ascii' codec can't encode characters in position 18-20: ordinal not in range(128)
+2024-11-15 17:24:56,061 - ERROR - Error during model training: 'ascii' codec can't encode characters in position 18-20: ordinal not in range(128)
+2024-11-15 17:50:15,833 - ERROR - Error during model training: 'ascii' codec can't encode characters in position 18-20: ordinal not in range(128)
+2024-11-15 17:50:22,247 - ERROR - Error during model training: 'ascii' codec can't encode characters in position 18-20: ordinal not in range(128)
+2024-11-15 17:50:23,311 - ERROR - Error during model training: 'ascii' codec can't encode characters in position 18-20: ordinal not in range(128)
+2024-11-15 17:50:23,967 - ERROR - Error during model training: 'ascii' codec can't encode characters in position 18-20: ordinal not in range(128)
+2024-11-15 17:50:26,776 - ERROR - Error during model training: 'ascii' codec can't encode characters in position 18-20: ordinal not in range(128)
+2024-11-15 17:52:11,662 - ERROR - Error during model training: 'ascii' codec can't encode characters in position 18-20: ordinal not in range(128)
+2024-11-15 17:52:14,031 - ERROR - Error during model training: 'ascii' codec can't encode characters in position 18-20: ordinal not in range(128)
+2024-11-15 17:52:15,127 - ERROR - Error during model training: 'ascii' codec can't encode characters in position 18-20: ordinal not in range(128)
+2024-11-15 17:53:10,201 - ERROR - Error during model training: 'ascii' codec can't encode characters in position 18-20: ordinal not in range(128)
+2024-11-15 17:53:11,013 - ERROR - Error during model training: 'ascii' codec can't encode characters in position 18-20: ordinal not in range(128)
+2024-11-15 17:55:00,785 - ERROR - Error during model training: 'ascii' codec can't encode characters in position 18-20: ordinal not in range(128)
+2024-11-15 17:58:30,546 - ERROR - Error during model training: 'ascii' codec can't encode characters in position 18-20: ordinal not in range(128)
+2024-11-15 18:07:06,724 - ERROR - Error during GridSearchCV.fit(): 'ascii' codec can't encode characters in position 18-20: ordinal not in range(128)
+2024-11-15 18:07:07,094 - INFO - 簡化版 GridSearchCV 訓練完成成功。
+2024-11-15 18:16:39,954 - ERROR - Error during model training: 'ascii' codec can't encode characters in position 18-20: ordinal not in range(128)
+2024-11-15 18:18:26,884 - ERROR - Error during model training: 'ascii' codec can't encode characters in position 18-20: ordinal not in range(128)

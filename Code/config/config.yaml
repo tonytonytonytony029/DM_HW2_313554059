@@ -3,6 +3,7 @@ data_paths:
   train_y: "train_y.csv"
   test_X: "test_X.csv"
   submission_file: "testing_result.csv"  # Kaggle 提交文件路徑
+  numerical_columns: ['apache_2_diagnosis', 'apache_3j_diagnosis','arf_apache','intubated_apache','gcs_motor_apache','gcs_unable_apache']
 
 model_params:
   n_neighbors: 5                # 用於 KNN 插補
